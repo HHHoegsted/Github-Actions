@@ -17,5 +17,3 @@ jobs:
           name: code
           path: .
           include-hidden-files: true
-  Linter:
-    runs-on: ubuntu-latest
